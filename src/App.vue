@@ -117,6 +117,7 @@ export default {
     },
     reset() {
       this.questionsAnswered = 0;
+
       this.totalCorrect = 0;
     },
   },
